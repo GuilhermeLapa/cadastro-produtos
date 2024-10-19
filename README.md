@@ -16,7 +16,9 @@ Projeto de Desenvolvimento de uma API REST para Cadastro de Produtos e Banco de 
 - Git.
 - Maven.
 <br/>
+
 **OBS:** requer o maven instalado e configurado nas variáveis de ambiente(Windows).
+
 <br/>
   
 ### A instalação do projeto pode seguir da seguinte forma:
@@ -44,4 +46,7 @@ Projeto de Desenvolvimento de uma API REST para Cadastro de Produtos e Banco de 
 - No STS, no Boot Dashboard, selecione clicando na opção **cadastro-produtos**.
 - No STS, no Boot Dashboard, clique novamente na opção **cadastro-produtos** com o botão direito do mouse.
 - Clique na opção **(Re)start**.
+<br/>
+
+5- Agora é possível acessar a documentação da API através do link do Swagger:  http://localhost:8080/swagger-ui/index.html.
 <br/>
